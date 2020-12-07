@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Raven", "Raven.vcxproj", "{F1D91A1C-B135-4BAE-8600-CD02627CD9E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		boundschecker|x86 = boundschecker|x86
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1D91A1C-B135-4BAE-8600-CD02627CD9E2}.boundschecker|x86.ActiveCfg = boundschecker|Win32
+		{F1D91A1C-B135-4BAE-8600-CD02627CD9E2}.boundschecker|x86.Build.0 = boundschecker|Win32
+		{F1D91A1C-B135-4BAE-8600-CD02627CD9E2}.Debug|x86.ActiveCfg = Debug|Win32
+		{F1D91A1C-B135-4BAE-8600-CD02627CD9E2}.Debug|x86.Build.0 = Debug|Win32
+		{F1D91A1C-B135-4BAE-8600-CD02627CD9E2}.Release|x86.ActiveCfg = Release|Win32
+		{F1D91A1C-B135-4BAE-8600-CD02627CD9E2}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0657E3B9-20CB-494A-A2FD-FF2CCC08A38C}
+	EndGlobalSection
+EndGlobal
